@@ -12,13 +12,13 @@ export default function Country()
                     <Link href="/country/pakistan">Pakistan</Link>
                 </li>
                 <li>
-                    <Link href="/country/japan">Japan</Link>
+                    <Link href="/country/bhutan">Bhutan</Link>
                 </li>
                 <li>
                     <Link href="/country/china">China</Link>
                 </li>
                 <li>
-                    <Link href="/country/canada">Canada</Link>
+                    <Link href="/country/korea">Korea</Link>
                 </li>
                 <li>
                     <Link href="/country/usa">USA</Link>
